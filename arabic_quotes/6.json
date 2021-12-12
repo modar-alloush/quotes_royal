@@ -1,0 +1,82 @@
+{
+  "statusCode": 200,
+  "message": "Quotes",
+  "pagination": {
+    "currentPage": 6,
+    "nextPage": 7,
+    "totalPages": 10
+  },
+  "totalQuotes": 100,
+  "data": [
+    {
+      "_id": "5eb17aadb69dc744b4e715d3",
+      "quoteText": " لا يتأثر الإنسان بما يحدث مثلما يتأثر برأيه حول ما يحدث ",
+      "quoteAuthor": "مونتين",
+      "quoteGenre": "amazing",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e711f8",
+      "quoteText": "من عرف قيمة الحق ، عز عليه ان يراه مهاناً",
+      "quoteAuthor": "محمد عبده",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e711fb",
+      "quoteText": "أفضل الانجازات التي يمكن تحقيقها هو ان نضفي عنصر المتعة و التشويق الى العمل ",
+      "quoteAuthor": "ارنولد توينبي",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e711ff",
+      "quoteText": " الحضارة تموت بالانتحار لا بالقتل",
+      "quoteAuthor": "ارنولد توينبي",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71211",
+      "quoteText": "هؤلاء الواقفون على قمة الجبل .. لم يهبطوا من السماء هناك",
+      "quoteAuthor": "صموئيل جيندر",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71230",
+      "quoteText": "أنت لا ترى نفسك .. ما تراه هو ظلك",
+      "quoteAuthor": "صموئيل جيندر",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71231",
+      "quoteText": "هنالك أناس يتكلمون كثيراً مع انهم لا يقولون شيئاً",
+      "quoteAuthor": "صموئيل جيندر",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71234",
+      "quoteText": "لو أن التصرف الأخلاقي هو مجرد إتباع للقواعد ، لاستطعنا برمجة الكمبيوتر على التصرف بأخلاق",
+      "quoteAuthor": "صموئيل جيندر",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71258",
+      "quoteText": "لم نشاهد انغلاقاً شديداً في دولة إلا رأينا بعده انفتاحاً غـير منضبط لا يقل في ضرره عن الانغلاق ، و النتيجة فقد التوازن و الاعتدال في الحالتين",
+      "quoteAuthor": "حسن الهضيبي",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e7125e",
+      "quoteText": "تذكر في بعض الاوقات أن من فضل الله عليكم انك لا تنال ما تريد",
+      "quoteAuthor": "ابو حامد الغزالي",
+      "quoteGenre": "alone",
+      "__v": 0
+    }
+  ]
+}
