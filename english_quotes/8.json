@@ -1,0 +1,82 @@
+{
+  "statusCode": 200,
+  "message": "Quotes",
+  "pagination": {
+    "currentPage": 5,
+    "nextPage": 6,
+    "totalPages": 5
+  },
+  "totalQuotes": 50,
+  "data": [
+    {
+      "_id": "5eb17aadb69dc744b4e72098",
+      "quoteText": "As the time goes by, you change, your learn new things, your attitude is different. For the moment, I'm still enjoying ski racing so much that it would be difficult for me to think about ending my career.",
+      "quoteAuthor": "Hermann Maier",
+      "quoteGenre": "attitude",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e720a0",
+      "quoteText": "When I was in my 20s it did occur to me that there was something perverted about an attitude that thought that killing somebody was a minor offence compared to kissing somebody.",
+      "quoteAuthor": "John McGahern",
+      "quoteGenre": "attitude",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e720e0",
+      "quoteText": "I don't think people are fools, and I think they deserve a good attitude and smart entertainment.",
+      "quoteAuthor": "Tatyana Tolstaya",
+      "quoteGenre": "attitude",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e720c0",
+      "quoteText": "I always had the attitude that I wanted to throw a no-hitter every game.",
+      "quoteAuthor": "Dennis Eckersley",
+      "quoteGenre": "attitude",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e720c7",
+      "quoteText": "Football is my profession now. I'm getting married in August... It's a new experience for me as someone just getting out of college. I still have the same attitude about football I always had. I play hard. I enjoy practice. I'd rather be throwing in passing drills than sitting around and watching TV.",
+      "quoteAuthor": "Doug Flutie",
+      "quoteGenre": "attitude",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e720f3",
+      "quoteText": "In regard to music, I just think that it's always best to have an attitude of being a perpetual student and always look to learn something new about music, because there's always something new to learn.",
+      "quoteAuthor": "David Sanborn",
+      "quoteGenre": "attitude",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e720f4",
+      "quoteText": "Canadians tend to be a bit more religious than most Europeans - though not more than the Poles or Ukrainians. Most important, their attitude to immigration and ethnic minorities is more positive than that of most Europeans.",
+      "quoteAuthor": "Timothy Garton Ash",
+      "quoteGenre": "attitude",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e72143",
+      "quoteText": "Personal beauty is a greater recommendation than any letter of reference.",
+      "quoteAuthor": "Aristotle",
+      "quoteGenre": "beauty",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e7214b",
+      "quoteText": "Beauty has a lot to do with character.",
+      "quoteAuthor": "Kevyn Aucoin",
+      "quoteGenre": "beauty",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e7216e",
+      "quoteText": "I don't need plastic in my body to validate me as a woman.",
+      "quoteAuthor": "Courtney Love",
+      "quoteGenre": "beauty",
+      "__v": 0
+    }
+  ]
+}
