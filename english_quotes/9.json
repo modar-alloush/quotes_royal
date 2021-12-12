@@ -1,0 +1,82 @@
+{
+  "statusCode": 200,
+  "message": "Quotes",
+  "pagination": {
+    "currentPage": 9,
+    "nextPage": 10,
+    "totalPages": 10
+  },
+  "totalQuotes": 100,
+  "data": [
+    {
+      "_id": "5eb17aadb69dc744b4e72172",
+      "quoteText": "Heat cannot be separated from fire, or beauty from The Eternal.",
+      "quoteAuthor": "Dante Alighieri",
+      "quoteGenre": "beauty",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e72183",
+      "quoteText": "There is no cosmetic for beauty like happiness.",
+      "quoteAuthor": "Maria Mitchell",
+      "quoteGenre": "beauty",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e720ff",
+      "quoteText": "My grandmother is this amazingly theatrical woman. She acted like a movie star, as far as looks and attitude, kind of like Susan Hayward.",
+      "quoteAuthor": "Parker Posey",
+      "quoteGenre": "attitude",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e721a2",
+      "quoteText": "The future belongs to those who believe in the beauty of their dreams.",
+      "quoteAuthor": "Eleanor Roosevelt",
+      "quoteGenre": "beauty",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e7210a",
+      "quoteText": "I was entirely natural and in many ways I have the same attitude now. I don't mourn the loss of my youth because I believe you should enjoy what you have while you have it.",
+      "quoteAuthor": "Koo Stark",
+      "quoteGenre": "attitude",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e7210e",
+      "quoteText": "Nobody minded what you did in bed or what you said about God, a very civilized attitude in 1948.",
+      "quoteAuthor": "Simon Raven",
+      "quoteGenre": "attitude",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e72132",
+      "quoteText": "Everything has beauty, but not everyone sees it.",
+      "quoteAuthor": "Confucius",
+      "quoteGenre": "beauty",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e72138",
+      "quoteText": "Of life's two chief prizes, beauty and truth, I found the first in a loving heart and the second in a laborer's hand.",
+      "quoteAuthor": "Khalil Gibran",
+      "quoteGenre": "beauty",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e72145",
+      "quoteText": "The world's biggest power is the youth and beauty of a woman.",
+      "quoteAuthor": "Chanakya",
+      "quoteGenre": "beauty",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e72146",
+      "quoteText": "Beauty awakens the soul to act.",
+      "quoteAuthor": "Dante Alighieri",
+      "quoteGenre": "beauty",
+      "__v": 0
+    }
+  ]
+}
