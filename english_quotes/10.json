@@ -1,0 +1,82 @@
+{
+  "statusCode": 200,
+  "message": "Quotes",
+  "pagination": {
+    "currentPage": 10,
+    "nextPage": 11,
+    "totalPages": 10
+  },
+  "totalQuotes": 100,
+  "data": [
+    {
+      "_id": "5eb17aadb69dc744b4e72169",
+      "quoteText": "Beauty is only temporary, but your mind lasts you a lifetime.",
+      "quoteAuthor": "Alicia Machado",
+      "quoteGenre": "beauty",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e7218a",
+      "quoteText": "The real sin against life is to abuse and destroy beauty, even one's own even more, one's own, for that has been put in our care and we are responsible for its well-being.",
+      "quoteAuthor": "Katherine Anne Porter",
+      "quoteGenre": "beauty",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e721a0",
+      "quoteText": "It's sad when girls think they don't have anything going on except being pretty.",
+      "quoteAuthor": "Keri Russell",
+      "quoteGenre": "beauty",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e720a3",
+      "quoteText": "I just want to go in with the right attitude and from Day 1 make a difference.",
+      "quoteAuthor": "Freddy Adu",
+      "quoteGenre": "attitude",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e720a4",
+      "quoteText": "The theatre only knows what it's doing next week, not like the opera, where they say: What are we going to do in five years' time? A completely different attitude.",
+      "quoteAuthor": "Harrison Birtwistle",
+      "quoteGenre": "attitude",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e720d1",
+      "quoteText": "We have become aware of the responsibility for our attitude towards the dark pages in our history. We have understood that bad service is done to the nation by those who are impelling to renounce that past.",
+      "quoteAuthor": "Aleksander Kwasniewski",
+      "quoteGenre": "attitude",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e720f0",
+      "quoteText": "Acting is magical. Change your look and your attitude, and you can be anyone.",
+      "quoteAuthor": "Alicia Witt",
+      "quoteGenre": "attitude",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e72105",
+      "quoteText": "I came on to the film with a very happy-go-lucky attitude which I think my character, Charlie, did when she went into the house. I expected it to be good, and then slowly things started to change for us all.",
+      "quoteAuthor": "Jennifer Sky",
+      "quoteGenre": "attitude",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e72129",
+      "quoteText": "Global political conditions make a direct American intervention difficult, but President Reagan's messianic and visceral attitude toward the Nicaraguan revolution could mean it will happen as an act of desperation.",
+      "quoteAuthor": "Tomas Borge",
+      "quoteGenre": "attitude",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e72137",
+      "quoteText": "The pursuit of truth and beauty is a sphere of activity in which we are permitted to remain children all our lives.",
+      "quoteAuthor": "Albert Einstein",
+      "quoteGenre": "beauty",
+      "__v": 0
+    }
+  ]
+}
