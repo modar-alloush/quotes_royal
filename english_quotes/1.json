@@ -8,55 +8,75 @@
   },
   "totalQuotes": 50,
   "data": [
-  {
-    "_id": "1",
-    "quoteText": "اذا لم يكن لديك هدف ، فاجعل هدفك الاول ايجاد واحد",
-    "quoteAuthor": "وليام شكسبير"
-  },
-  {
-    "_id": "2",
-    "quoteText": "الشخص الواثق بنفسه يقول : يبدو الأمر صعبا ً و لكنه ممكن .. أما غير الواثق فيردد : الأمر ممكن ولكنه يبدو صعبا",
-    "quoteAuthor": "توماس كارليل"
-  },
-  {    
-    "_id": "3",
-    "quoteText": "يمكن القول بشكل عام ان الإنسان الاكثر نجاحا ً في الحياة هو من تتوفر لديه أفضل و أحسـن المعلومات",
-    "quoteAuthor": "بنيامين دزرائيلي"
-  },
-  {
-    "_id": "4",
-    "quoteText": "الإنسان الذي يمكنه اتقان الصبر يمكنه اتقان أي شئ آخر",
-    "quoteAuthor": "اندرو كارنيجي"
-  },
-  {
-    "_id": "5",
-    "quoteText": "الفكرة باختصار : ضع هدفاً ، و لا تتخل عنه حتى تحققه",
-    "quoteAuthor": "خولة القزويني"
-  },
-  {
-    "_id": "6",
-    "quoteText": "لا يصل الناس الى حديقة النجاح ، دون ان يمروا بمحطات التعب و الفشل و اليأس ،و صاحب الإرادة القوية لا يطيل الوقوف في هذه المحطات",
-    "quoteAuthor": "جون تشارلز سالاك"
-  },
-  {
-    "_id": "7",
-    "quoteText": "التركيز هو أساس النجاح في السياسة ، في التجارة ، في العمل .. و في العلاقات الإنسانية كافة",
-    "quoteAuthor": "رالف والدو امرسون"
-  },
-  {
-    "_id": "8",
-    "quoteText": "الذي يعوق معظم الناس عن تسجيل إنجازات جيدة ليس العقبات الكبرى التي يواجهونها في طريقهم، وإنما التردد والخوف من الانطلاق",
-    "quoteAuthor": "عبد الكريم بكار"
-  },
-  {
-    "_id": "9",
-    "quoteText": "الفرص كثيرة ، و لكنها لا تتسكع أمام الأبواب أبداً",
-    "quoteAuthor": "عبد الله الشيتي"
-  },
-  {
-    "_id": "10",
-    "quoteText": "من الأفضل إن تمشى ببطء إلى الامام على إن تمشى مسرعاً إلى الخلف",
-    "quoteAuthor": "ابراهام لنكولن"
-  }
+   {
+      "_id": "5eb17aadb69dc744b4e7135b",
+      "quoteText": "Yeah, my dream would be to work for 6 months and then have 6 months to play, just snowboarding, surfing, and going to cool places to listen and be alone and kinda chill out.",
+      "quoteAuthor": "Marc Newson",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71487",
+      "quoteText": "I would rather be alone and a loud voice for action than be silent.",
+      "quoteAuthor": "Susan Rice",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71363",
+      "quoteText": "As a child, I had to get up early for school or work. I'd get ready by myself. I'd set my alarm to wake me up very early in the morning, and be off to work, the family driver driving me every morning. I did it alone, my parents never coming in to wake me up.",
+      "quoteAuthor": "Janet Jackson",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e714a7",
+      "quoteText": "That is, we believed, the supreme duty of the parent, who only was permitted to claim in some degree the priestly office and function, since it is his creative and protecting power which alone approaches the solemn function of Deity.",
+      "quoteAuthor": "Charles Eastman",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71382",
+      "quoteText": "The question is what will Mitt Romney do as president if his policy is simply to be hands off and let the government be made so small it can be drowned in a bathtub. In the 21st century global economy, no state alone has the ability to compete against China.",
+      "quoteAuthor": "Jennifer Granholm",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71384",
+      "quoteText": "You can work on the saxophone alone, but ultimately you must perform with others.",
+      "quoteAuthor": "Steve Lacy",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e714b8",
+      "quoteText": "Myspace alone has just over 80 million users and ranks as the sixth most popular English language website and the eighth most popular site in the world.",
+      "quoteAuthor": "Mike Fitzpatrick",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71398",
+      "quoteText": "I'm a huge Wes Anderson fan I would faint if I met him, let alone got to work with him.",
+      "quoteAuthor": "Emma Roberts",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e714c0",
+      "quoteText": "I have always had a sense that we are all pretty much alone in life, particularly in adolescence.",
+      "quoteAuthor": "Robert Cormier",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e7139c",
+      "quoteText": "Whoever wants to know something about me - as an artist which alone is significant - they should look attentively at my pictures and there seek to recognise what I am and what I want.",
+      "quoteAuthor": "Gustav Klimt",
+      "quoteGenre": "alone",
+      "__v": 0
+    }
   ]
 }
