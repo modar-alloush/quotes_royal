@@ -4,9 +4,9 @@
   "pagination": {
     "currentPage": 7,
     "nextPage": 8,
-    "totalPages": 7
+    "totalPages": 10
   },
-  "totalQuotes": 70,
+  "totalQuotes": 100,
   "data": [
     {
       "_id": "5eb17aadb69dc744b4e714d8",
