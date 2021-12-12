@@ -1,0 +1,82 @@
+{
+  "statusCode": 200,
+  "message": "Quotes",
+  "pagination": {
+    "currentPage": 6,
+    "nextPage": 7,
+    "totalPages": 6
+  },
+  "totalQuotes": 60,
+  "data": [
+       {
+      "_id": "5eb17aadb69dc744b4e715d3",
+      "quoteText": "I'm so excited for my first fragrance! I chose to partner with Dots because I love what they do for their customers, bringing them the hottest trends in fashion, accessories and fragrance at unbelievably low prices. It's amazing!",
+      "quoteAuthor": "Jordin Sparks",
+      "quoteGenre": "amazing",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e711f8",
+      "quoteText": "I was sleeping the other night, alone, thanks to the exterminator.",
+      "quoteAuthor": "Emo Philips",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e711fb",
+      "quoteText": "Self-reverence, self-knowledge, self-control these three alone lead one to sovereign power.",
+      "quoteAuthor": "Alfred Lord Tennyson",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e711ff",
+      "quoteText": "All species capable of grasping this fact manage better in the struggle for existence than those which rely upon their own strength alone: the wolf, which hunts in a pack, has a greater chance of survival than the lion, which hunts alone.",
+      "quoteAuthor": "Christian Lous Lange",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71211",
+      "quoteText": "Down to Gehenna, or up to the Throne, He travels the fastest who travels alone.",
+      "quoteAuthor": "Rudyard Kipling",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71230",
+      "quoteText": "To the press alone, chequered as it is with abuses, the world is indebted for all the triumphs which have been gained by reason and humanity over error and oppression.",
+      "quoteAuthor": "James Madison",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71231",
+      "quoteText": "I think I meant that, given the circumstances of my childhood, I had the illusion that it's easier to be alone. To have your relationships be casual and also to pose as a solitary person, because it was more romantic. You know, I was raised on the idea of the ramblin' man and the loner.",
+      "quoteAuthor": "Steve Martin",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71234",
+      "quoteText": "We gave up some of our country to the white men, thinking that then we could have peace. We were mistaken. The white man would not let us alone.",
+      "quoteAuthor": "Chief Joseph",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71258",
+      "quoteText": "God created man and, finding him not sufficiently alone, gave him a companion to make him feel his solitude more keenly.",
+      "quoteAuthor": "Paul Valery",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e7125e",
+      "quoteText": "When thinking about companions gone, we feel ourselves doubly alone.",
+      "quoteAuthor": "Walter Scott",
+      "quoteGenre": "alone",
+      "__v": 0
+    }
+  ]
+}
