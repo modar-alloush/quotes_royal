@@ -8,55 +8,75 @@
   },
   "totalQuotes": 50,
   "data": [
+ {
+      "_id": "5eb17aadb69dc744b4e714c3",
+      "quoteText": "We are never the same with others as when we are alone. We are different, even when we are in the dark with them.",
+      "quoteAuthor": "Maurice Maeterlinck",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
     {
-    "_id": "11",
-    "quoteText": "السرعة مطلوبة، ولكن الدقة هي كل شيء.",
-    "quoteAuthor": "زينوفون"
-    }, 
+      "_id": "5eb17aadb69dc744b4e713a3",
+      "quoteText": "I would point out that I'm an actress for a reason! If I were popular in high school, I would have considered another career because I wouldn't have been alone in my room, making up other characters for myself. I definitely had growing pains. The popular kids didn't want anything to do with the girl who was starting the drama club.",
+      "quoteAuthor": "Ginnifer Goodwin",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
     {
-    "_id": "12",
-    "quoteText": "لا يوجد شئ صعب عملياً اذا قمت بتقسيمه الى أعمال صغيرة",
-    "quoteAuthor": "هنري فورد"
-  },
-  {
-    "_id": "13",
-    "quoteText": "أكبر خطر هو عدم المخاطرة بأي شيء، في هذا العالم الذي يتغير سريعا إذا أردت ضمان الفشل المحقق فعليك فقط عدم المخاطرة",
-    "quoteAuthor": "مارك زوكربيرج"
-  },
-  {
-    "_id": "14",
-    "quoteText": "من المحتمل ألا تستطيع التحكم في الظروف ، و لكنك تستـطيع التحكم في أفكارك ، فالتفكير الايجابي يؤدي الى الفعل الايجابي و النتائج الايجابية",
-    "quoteAuthor": "ابراهيم الفقي"
-  },
-  {
-    "_id": "15",
-    "quoteText": "لا يوجد انسان ضعيف بل يوجد انسان يجهل موطن قوته",
-    "quoteAuthor": "ليو تولستوي"
-  },
-  {
-    "_id": "16",
-    "quoteText": "السر في التغيير يكمن في توجيه طاقتك في عمل شيء عمل جديد، وليس محاربتك لما مضى",
-    "quoteAuthor": "دان ميلمان"
-  },
-  {
-    "_id": "17",
-    "quoteText": "إذا لم تكن قويا بما فيه الكفاية، فستقلع عن تجربة أي شيء بسرعة، وإذا لم تكن مرنًا، لن تستطيع الوصول لحلول لما تواجهه من مشاكل ولو ضربت برأسك عرض الحائط",
-    "quoteAuthor": "جيف بيزوس"
-  },
-  {
-    "_id": "18",
-    "quoteText": "لاحظ أن النملة حين تحاول الصعود على جدار أو مرتفع ثم تسقط قبل أن تصل إلى منتهاه فإنها تحاول مرة أخرى ، لكنها لا تسلك نفس الطريق الأول",
-    "quoteAuthor": "طه حسين"
-  },
-  {
-    "_id": "19",
-    "quoteText": "يجب لكي تنجح أن تكون رغبتك في النجاح أكبر من خوفك من الفشل",
-    "quoteAuthor": "بيل كوسبي"
-  },
-  {
-    "_id": "20",
-    "quoteText": "الفشل نوعان : نوع يأتي من التفكير بدون فعل ، و نوع يأتي من الفعل بدون تفكير",
-    "quoteAuthor": "جون تشارلز سالاك"
-  }
+      "_id": "5eb17aadb69dc744b4e714d4",
+      "quoteText": "The great increase of our population throughout the Union will alone produce an important effect, and in no quarter will it be so sensibly felt as in those in contemplation.",
+      "quoteAuthor": "James Monroe",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e713b3",
+      "quoteText": "To share our stories is not only a worthwhile endeavor for the storyteller, but for those who hear our stories and feel less alone because of it.",
+      "quoteAuthor": "Joyce Maynard",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e713c7",
+      "quoteText": "What good is sitting all alone in your room?",
+      "quoteAuthor": "Liza Minnelli",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e713e6",
+      "quoteText": "I still don't like going to bed alone.",
+      "quoteAuthor": "James Franco",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e714ea",
+      "quoteText": "For each one of us stands alone in the midst of a universe.",
+      "quoteAuthor": "John Buchanan Robinson",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e713e7",
+      "quoteText": "Improvisation is almost like the retarded cousin in the comedy world. We've been trying forever to get improvisation on TV. It's just like stand-up. It's best when it's just left alone. It doesn't translate always on TV. It's best live.",
+      "quoteAuthor": "Amy Poehler",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e714eb",
+      "quoteText": "I have two ideas for novels at the moment, neither of them all that conventional, but I'm not ready to choose between them yet, let alone settle down to the process of writing.",
+      "quoteAuthor": "Jonathan Coe",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e713ec",
+      "quoteText": "Your Majesty, I took the liberty because I was so desirous of visiting alone with you for a few minutes before the rest of the other peasants arrived.",
+      "quoteAuthor": "Walter Annenberg",
+      "quoteGenre": "alone",
+      "__v": 0
+    }
   ]
 }
