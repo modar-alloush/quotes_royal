@@ -1,0 +1,82 @@
+{
+  "statusCode": 200,
+  "message": "Quotes",
+  "pagination": {
+    "currentPage": 9,
+    "nextPage": 10,
+    "totalPages": 10
+  },
+  "totalQuotes": 100,
+  "data": [
+    {
+      "_id": "5eb17aadb69dc744b4e715d3",
+      "quoteText": "أصعب معركة في حياتك عندما يدفعك الناس إلي ان تكون شخصاً آخر",
+      "quoteAuthor": "وليام شكسبير",
+      "quoteGenre": "amazing",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e711f8",
+      "quoteText": "لا تكن جادا جدا.. فالحياة تحتاج شيء من الحماقة أحياناً",
+      "quoteAuthor": "وليام شكسبير",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e711fb",
+      "quoteText": "الأم ... شمعة مقدسة تضئ ليل الحياة بتواضع و رقة",
+      "quoteAuthor": "وليام شكسبير",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e711ff",
+      "quoteText": "كن عظيما في الفعل كما كنت عظيما في الفكرة",
+      "quoteAuthor": "وليام شكسبير",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71211",
+      "quoteText": "عود نفسك على التجاهل ، ليس كل ما يقال يستحق الرد",
+      "quoteAuthor": "وليام شكسبير",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71230",
+      "quoteText": "ستتعلم كثير من دروس الحياة إذا لاحظت ان رجال الإطفاء لا يكافحون النار بالنار",
+      "quoteAuthor": "وليام شكسبير",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71231",
+      "quoteText": "حينما تقع الكارثة لا نجد مانقوله و حين تذهب نجد الكثير",
+      "quoteAuthor": "وليام شكسبير",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71234",
+      "quoteText": "من انتصر على أهواءه فقد انتصر على العالم",
+      "quoteAuthor": "وليام شكسبير",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71258",
+      "quoteText": "استمع لكل الانتقادات ، لكن شكـّل حكمك الخاص",
+      "quoteAuthor": "وليام شكسبير",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e7125e",
+      "quoteText": "الأسباب القوية تولد افعالاً قوية",
+      "quoteAuthor": "وليام شكسبير",
+      "quoteGenre": "alone",
+      "__v": 0
+    }
+  ]
+}
