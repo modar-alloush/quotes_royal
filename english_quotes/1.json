@@ -1,6 +1,6 @@
 {
   "statusCode": 200,
-  "message": "Quotes",
+  "message": "Random quotes",
   "pagination": {
     "currentPage": 1,
     "nextPage": 2,
