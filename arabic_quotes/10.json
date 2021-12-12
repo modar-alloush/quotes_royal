@@ -1,0 +1,82 @@
+{
+  "statusCode": 200,
+  "message": "Quotes",
+  "pagination": {
+    "currentPage": 10,
+    "nextPage": 11,
+    "totalPages": 10
+  },
+  "totalQuotes": 100,
+  "data": [
+    {
+      "_id": "5eb17aadb69dc744b4e715d3",
+      "quoteText": "تواضع عند النصر ، و إبتسم عند الهزيمة",
+      "quoteAuthor": "وليام شكسبير",
+      "quoteGenre": "amazing",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e711f8",
+      "quoteText": "عندما يتحدّث الناس عنك بسوء وأنت تعلم أنك لم تُخطِئ في حقّ أحد منهم تذكّر أن تحمد الله الذي أشغلهم بك ولم يشغلك بهم",
+      "quoteAuthor": "محمد متولي الشعراوي",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e711fb",
+      "quoteText": "إذا لم تجد لك حاقداً فاعلم أنك إنسان فاشل",
+      "quoteAuthor": "محمد متولي الشعراوي",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e711ff",
+      "quoteText": "لقد جعل الله الكون في خدمتك، و لكنه جعله كذلك لتضيف أنت الى الحياة شيئاً",
+      "quoteAuthor": "محمد متولي الشعراوي",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71211",
+      "quoteText": "إن لم تستطع قول الحق فلا تصفق للباطل",
+      "quoteAuthor": "محمد متولي الشعراوي",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71230",
+      "quoteText": "لا تقلق من تدابير البشر فأقصى ما يستطيعون هو تنفيذ إرادة الله",
+      "quoteAuthor": "محمد متولي الشعراوي",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71231",
+      "quoteText": "إذا خدعك أحدهم مرة فهو مخطئ ... و لكن إذا خدعك مرتين فإنك أنت المخطئ",
+      "quoteAuthor": "وليام شكسبير",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71234",
+      "quoteText": "الزمن بطيء جداً لمن ينتظر. سريع جداً لمن يخشى . طويل جداً لمن يتألم. قصير جداً لمن يحتفل لكنه الأبديه لمن يحب",
+      "quoteAuthor": "وليام شكسبير",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71258",
+      "quoteText": "الذئب ما كان ليكون ذئباً لو لم تكن الخرافُ خرافاً",
+      "quoteAuthor": "وليام شكسبير",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e7125e",
+      "quoteText": "الذكاء كالنهر ، كلما ازداد عمقا قلت ضوضاؤه",
+      "quoteAuthor": "وليام شكسبير",
+      "quoteGenre": "alone",
+      "__v": 0
+    }
+  ]
+}
