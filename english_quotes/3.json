@@ -9,54 +9,74 @@
   "totalQuotes": 50,
   "data": [
     {
-    "_id": "21",
-    "quoteText": "كن دائماً الاصدار الاول من نفسك ، و لا تكن الاصدار الثاني من احد آخر",
-    "quoteAuthor": "جودي جارلاند"
-  },
-  {
-    "_id": "22",
-    "quoteText": "وجود رسالة في الحياة ، هذا هو العامل المشترك الأول بين الناجحين",
-    "quoteAuthor": "ريتشارد ميلر"
-  },
-  {
-    "_id": "23",
-    "quoteText": "يجب أن تثق بنفسك .. و اذا لم تثق بنفسك ، فمن ذا الذي سيثق بك ؟",
-    "quoteAuthor": "ارسطو"
-  },
-  {
-    "_id": "24",
-    "quoteText": "إذا كنت تحب ما تقوم به، ومستعد للقيام بأي شيء لتنجح في ذلك، فهذا هو النجاح الحقيقي، الأمر يستحق عناء كل دقيقة تقضيها وحيدا في الليل، وما تقضيه من وقت في التفكير في ما تريد تصميمه وبناءه",
-    "quoteAuthor": "ستيف فوزنياك"
-  },
-  {
-    "_id": "25",
-    "quoteText": "يجب ان تعمل في صمت ، و لا يجب ان يكون الصمت عملك",
-    "quoteAuthor": "ليوناردو دافنشي"
-  },
-  {
-    "_id": "26",
-    "quoteText": "قد يشك الناس فيما تقول ، و لكنهم سوف يؤمنون بما تفعل",
-    "quoteAuthor": "لويس كايس"
-  },
-  {
-    "_id": "27",
-    "quoteText": "الشئ الوحيد الثابت في الحياة هو التغيير المستمر",
-    "quoteAuthor": "هيراقليطس"
-  },
-  {
-    "_id": "28",
-    "quoteText": "نحن نصبح ما نفكر فيه في معظم الوقت، وهذا هو أغرب سر في هذه الحياة",
-    "quoteAuthor": "إيرل نايتينجال"
-  },
-  {
-    "_id": "29",
-    "quoteText": "النتائج الكبيرة تحتاج لطموحات كبيرة",
-    "quoteAuthor": "جيمس شامبي"
-  },
-  {
-    "_id": "30",
-    "quoteText": "ليست الاهداف ضرورية لتحفيزنا فحسب ، بل هي أساسية فعلا لبقائنا على قيد الحياة",
-    "quoteAuthor": "روبرت شولر"
-  }
+      "_id": "5eb17aadb69dc744b4e714f7",
+      "quoteText": "I feel like I have had the most amazing life in my public service.",
+      "quoteAuthor": "Hillary Clinton",
+      "quoteGenre": "amazing",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e7140b",
+      "quoteText": "It's very hard to write a song alone. It's only by jamming that you can get a song together.",
+      "quoteAuthor": "Maurice Gibb",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e714f8",
+      "quoteText": "When you have confidence, you can have a lot of fun. And when you have fun, you can do amazing things.",
+      "quoteAuthor": "Joe Namath",
+      "quoteGenre": "amazing",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e7143a",
+      "quoteText": "This communication alone, by the comparison of the antagonisms, rivalries, movements which give birth to decisive moments, permits the evolution of the soul, whereby a man realizes himself on earth. It is impossible to be concerned with anything else in art.",
+      "quoteAuthor": "Robert Delaunay",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71544",
+      "quoteText": "If you're a basketball player and you don't stop and take pictures with your fans, you can have an amazing game and everyone still loves you.",
+      "quoteAuthor": "Kim Kardashian",
+      "quoteGenre": "amazing",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71454",
+      "quoteText": "I love nicknames. It makes me feel loved. It makes me feel less alone in this world.",
+      "quoteAuthor": "Ellen Page",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e7154c",
+      "quoteText": "One of the most amazing things about mathematics is the people who do math aren't usually interested in application, because mathematics itself is truly a beautiful art form. It's structures and patterns, and that's what we love, and that's what we get off on.",
+      "quoteAuthor": "Danica McKellar",
+      "quoteGenre": "amazing",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e7145c",
+      "quoteText": "For every five well-adjusted and smoothly functioning Americans, there are two who never had the chance to discover themselves. It may well be because they have never been alone with themselves.",
+      "quoteAuthor": "Marya Mannes",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71554",
+      "quoteText": "Work hard, be kind, and amazing things will happen.",
+      "quoteAuthor": "Conan O'Brien",
+      "quoteGenre": "amazing",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71489",
+      "quoteText": "She can't even chew gum and walk in a straight line, let alone write a book.",
+      "quoteAuthor": "Liam Gallagher",
+      "quoteGenre": "alone",
+      "__v": 0
+    }
   ]
 }
