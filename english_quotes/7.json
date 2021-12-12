@@ -1,0 +1,82 @@
+{
+  "statusCode": 200,
+  "message": "Quotes",
+  "pagination": {
+    "currentPage": 7,
+    "nextPage": 8,
+    "totalPages": 7
+  },
+  "totalQuotes": 70,
+  "data": [
+    {
+      "_id": "5eb17aadb69dc744b4e714d8",
+      "quoteText": "I like to have a massage therapist come to my house, get a massage, take a bath, go to bed. That's a perfect night alone for me.",
+      "quoteAuthor": "Stacy Keibler",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e714db",
+      "quoteText": "When I work alone, it can be like dabbling with a canvas. Maybe you paint over bits, and it starts to form its own life and lead you off in a direction. It becomes an intuitive, subconscious process.",
+      "quoteAuthor": "Lindsey Buckingham",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e714ee",
+      "quoteText": "Your thoughts and emotions are yours alone.",
+      "quoteAuthor": "John Buchanan Robinson",
+      "quoteGenre": "alone",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e714fb",
+      "quoteText": "I am indeed amazed when I consider how weak my mind is and how prone to error.",
+      "quoteAuthor": "Rene Descartes",
+      "quoteGenre": "amazing",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e714ff",
+      "quoteText": "You will never cease to be the most amazed person on earth at what God has done for you on the inside.",
+      "quoteAuthor": "Oswald Chambers",
+      "quoteGenre": "amazing",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e7150c",
+      "quoteText": "It's amazing, if you know what you want to say, how fast it is to write.",
+      "quoteAuthor": "Evan Davis",
+      "quoteGenre": "amazing",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e7150e",
+      "quoteText": "It was amazing to me that, all of a sudden, I was hearing my music on the radio and coming out of cars.",
+      "quoteAuthor": "Lenny Kravitz",
+      "quoteGenre": "amazing",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e7151c",
+      "quoteText": "The body can do amazing things in a situation when it is really called for.",
+      "quoteAuthor": "Suzanne Farrell",
+      "quoteGenre": "amazing",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e71564",
+      "quoteText": "What has made America amazing has been the fact that throughout our history, throughout the more than 200 years of our history, there have been men and women of courage who stood up and decided it was more important to look out for the future of their children and their grandchildren than their own political futures.",
+      "quoteAuthor": "Scott Walker",
+      "quoteGenre": "amazing",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e7156c",
+      "quoteText": "I think Polanski's an amazing director.",
+      "quoteAuthor": "David Duchovny",
+      "quoteGenre": "amazing",
+      "__v": 0
+    }
+  ]
+}
