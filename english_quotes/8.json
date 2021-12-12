@@ -2,11 +2,11 @@
   "statusCode": 200,
   "message": "Quotes",
   "pagination": {
-    "currentPage": 5,
-    "nextPage": 6,
-    "totalPages": 5
+    "currentPage": 8,
+    "nextPage": 9,
+    "totalPages": 10
   },
-  "totalQuotes": 50,
+  "totalQuotes": 100,
   "data": [
     {
       "_id": "5eb17aadb69dc744b4e72098",
